@@ -12,8 +12,8 @@ edit the log.txt on local
 
 ++++++++++++++++++++++++++
 
-linux's driver
-author junliang
+ddddd
+66666
 
 --------------------------
 edit the log.txt file by Mike
